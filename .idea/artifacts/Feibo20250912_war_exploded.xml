@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Feibo20250912:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Feibo20250912_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Feibo20250912/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Feibo20250912" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
